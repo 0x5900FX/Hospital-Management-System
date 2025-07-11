@@ -1,0 +1,3 @@
+/home/zephyr/CLionProjects/Hospital Mgmt System -C/CMakeFiles/untitled.dir
+/home/zephyr/CLionProjects/Hospital Mgmt System -C/CMakeFiles/edit_cache.dir
+/home/zephyr/CLionProjects/Hospital Mgmt System -C/CMakeFiles/rebuild_cache.dir
