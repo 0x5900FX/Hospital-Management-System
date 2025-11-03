@@ -60,9 +60,11 @@ void addPatient();
 void viewPatients();
 void bookAppointment();
 void viewAppointments();
-void prescribeMedicine();
+void prescribeMedicine(int doctorId);
 void generateBill(int patientId, float amount);
 
+void viewDoctorAppointments(int doctorId);
+void viewPatientBill();
 void viewBills();
 
 int main() {
@@ -317,7 +319,7 @@ void doctorMenu() {
 
         switch(choice) {
             case 1:
-                viewAppointments(id);
+                viewDoctorAppointments(id);
                 break;
             case 2:
                 prescribeMedicine(id);
@@ -349,7 +351,7 @@ void patientMenu() {
                 bookAppointment();
                 break;
             case 3:
-                viewBills();
+                viewPatientBill();
                 break;
             case 4:
                 return;
