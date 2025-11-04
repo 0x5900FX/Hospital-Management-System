@@ -3,15 +3,6 @@
 ## GENERAL INFORMATION
 1. **Name of the Institution:** Greenwood Institute of Technology
 2. **Project Title:** Hospital Management System (HMS v1.0)
-3. **Team Members (with Roll Numbers):**
-   - Priya Sharma (CSE/20/074)
-   - Aarav Mehta (CSE/20/051)
-   - Neha Kulkarni (CSE/20/089)
-
-## APPROVAL CERTIFICATE
-This is to certify that the project proposal entitled "Hospital Management System (HMS v1.0)" submitted by Priya Sharma, Aarav Mehta, and Neha Kulkarni of Greenwood Institute of Technology has been reviewed and is hereby approved for fulfillment of the partial requirements of the Bachelor of Technology (Computer Science & Engineering) final year project. The students are authorized to proceed with the scope of work as detailed in this document under the supervision of Prof. K. R. Iyer.
-
----
 
 ## PROJECT DETAILS
 
