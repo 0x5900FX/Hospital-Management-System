@@ -1,0 +1,15 @@
+# Build directories
+cmake-build-*/
+CMakeFiles/
+Testing/
+
+# Generated files
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+*.o
+untitled
+
+# IDE specific
+.idea/
