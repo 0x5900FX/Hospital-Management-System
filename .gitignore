@@ -13,3 +13,8 @@ untitled
 
 # IDE specific
 .idea/
+
+.cmake/
+cmake-build-*/
+.idea/
+
